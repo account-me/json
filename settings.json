@@ -1,1 +1,4 @@
-["flights":"true", "auth":"true"]
+{
+  "flights": "true",
+  "auth": "true"
+}
