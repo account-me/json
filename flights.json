@@ -4144,24 +4144,6 @@
       "amount1": 1521,
       "amount2": 329,
       "arrive1": "MED 13:10",
-      "arrive2": "CAI 16:50",
-      "date1": "الاثنين 20 يناير 2025",
-      "date2": "الجمعة 24 يناير 2025",
-      "dateNum1": "2025-01-20",
-      "dateNum2": "2025-01-24",
-      "depart1": "CAI 10:25",
-      "depart2": "JED 15:30",
-      "plus1": 9999,
-      "seatleft1": "اكثر من 7 مقاعد",
-      "seatleft2": "اكثر من 7 مقاعد",
-      "site": "flynas",
-      "timeout": 1,
-      "total": 1850
-    },
-    {
-      "amount1": 1521,
-      "amount2": 329,
-      "arrive1": "MED 13:10",
       "arrive2": "CAI 13:45",
       "date1": "الخميس 23 يناير 2025",
       "date2": "الاثنين 27 يناير 2025",
@@ -4283,42 +4265,6 @@
       "site": "flynas",
       "timeout": 1,
       "total": 1900
-    },
-    {
-      "amount1": 1521,
-      "amount2": 409,
-      "arrive1": "MED 13:10",
-      "arrive2": "SPX 14:20",
-      "date1": "الاثنين 20 يناير 2025",
-      "date2": "الجمعة 24 يناير 2025",
-      "dateNum1": "2025-01-20",
-      "dateNum2": "2025-01-24",
-      "depart1": "CAI 10:25",
-      "depart2": "JED 13:00",
-      "plus1": 10,
-      "seatleft1": "اكثر من 7 مقاعد",
-      "seatleft2": "اكثر من 7 مقاعد",
-      "site": "flynas",
-      "timeout": 0,
-      "total": 1930
-    },
-    {
-      "amount1": 1521,
-      "amount2": 419,
-      "arrive1": "MED 13:10",
-      "arrive2": "CAI 13:45",
-      "date1": "الاثنين 20 يناير 2025",
-      "date2": "الجمعة 24 يناير 2025",
-      "dateNum1": "2025-01-20",
-      "dateNum2": "2025-01-24",
-      "depart1": "CAI 10:25",
-      "depart2": "JED 12:25",
-      "plus1": 85,
-      "seatleft1": "اكثر من 7 مقاعد",
-      "seatleft2": "اكثر من 7 مقاعد",
-      "site": "flynas",
-      "timeout": 0,
-      "total": 1940
     },
     {
       "amount1": 1649,
@@ -4483,6 +4429,23 @@
       "total": 2068
     },
     {
+      "amount1": 1699,
+      "amount2": 589,
+      "arrive1": "جدة 12:50",
+      "arrive2": "القاهرة 08:35",
+      "date1": "الاثنين 20 يناير 2025",
+      "date2": "الجمعة 24 يناير 2025",
+      "dateNum1": "2025-01-20",
+      "depart1": "القاهرة 09:35",
+      "depart2": "جدة 07:15",
+      "plus1": 535,
+      "seatleft1": "غير معروف",
+      "seatleft2": "غير معروف",
+      "site": "flyadeal",
+      "timeout": 0,
+      "total": 2288
+    },
+    {
       "amount1": 2949,
       "amount2": 299,
       "arrive1": "JED 11:35",
@@ -4563,33 +4526,6 @@
       "dateNum1": "2025-01-19",
       "depart1": "CAI 21:20",
       "seatleft1": "فقط 4 مقاعد متبقية",
-      "site1": "flynas"
-    },
-    {
-      "amount1": 1521,
-      "arrive1": "MED 13:10",
-      "date1": "الاثنين 20 يناير 2025",
-      "dateNum1": "2025-01-20",
-      "depart1": "CAI 10:25",
-      "seatleft1": "اكثر من 7 مقاعد",
-      "site1": "flynas"
-    },
-    {
-      "amount1": 1846,
-      "arrive1": "MED 17:20",
-      "date1": "الاثنين 20 يناير 2025",
-      "dateNum1": "2025-01-20",
-      "depart1": "CAI 14:35",
-      "seatleft1": "فقط 5 مقاعد متبقية",
-      "site1": "flynas"
-    },
-    {
-      "amount1": 1999,
-      "arrive1": "JED 14:55",
-      "date1": "الاثنين 20 يناير 2025",
-      "dateNum1": "2025-01-20",
-      "depart1": "CAI 11:40",
-      "seatleft1": "فقط 5 مقاعد متبقية",
       "site1": "flynas"
     },
     {
@@ -6805,6 +6741,24 @@
       "depart1": "CAI 09:50",
       "seatleft1": "فقط 3 مقاعد متبقية",
       "site1": "flynas"
+    },
+    {
+      "amount1": 1699,
+      "arrive1": "جدة 12:50",
+      "date1": "الاثنين 20 يناير 2025",
+      "dateNum1": "2025-01-20",
+      "depart1": "القاهرة 09:35",
+      "seatleft1": "غير معروف",
+      "site1": "flyadeal"
+    },
+    {
+      "amount1": 1699,
+      "arrive1": "جدة 00:45 +1",
+      "date1": "الاثنين 20 يناير 2025",
+      "dateNum1": "2025-01-20",
+      "depart1": "القاهرة 21:20",
+      "seatleft1": "غير معروف",
+      "site1": "flyadeal"
     }
   ],
   "inbound": [
@@ -9075,6 +9029,22 @@
       "depart2": "MED 10:25",
       "seatleft2": "فقط 1 مقاعد متبقية",
       "site2": "flynas"
+    },
+    {
+      "amount2": 589,
+      "arrive2": "القاهرة 08:35",
+      "date2": "الجمعة 24 يناير 2025",
+      "depart2": "جدة 07:15",
+      "seatleft2": "غير معروف",
+      "site2": "flyadeal"
+    },
+    {
+      "amount2": 589,
+      "arrive2": "القاهرة 20:20",
+      "date2": "الجمعة 24 يناير 2025",
+      "depart2": "جدة 18:55",
+      "seatleft2": "غير معروف",
+      "site2": "flyadeal"
     }
   ],
   "amman": [
