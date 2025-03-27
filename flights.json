@@ -4,24 +4,6 @@
       "amount1": 293,
       "amount2": 299,
       "arrive1": "MED 02:10 ",
-      "arrive2": "CAI 23:25",
-      "date1": "الجمعة 18 إبريل 2025",
-      "date2": "الثلاثاء 22 إبريل 2025",
-      "dateNum1": "2025-04-18",
-      "dateNum2": "2025-04-22",
-      "depart1": "SPX 23:10",
-      "depart2": "JED 22:15",
-      "plus1": -114,
-      "seatleft1": "اكثر من 7 مقاعد",
-      "seatleft2": "فقط 3 مقاعد متبقية",
-      "site": "flynas",
-      "timeout": 0,
-      "total": 592
-    },
-    {
-      "amount1": 293,
-      "amount2": 299,
-      "arrive1": "MED 02:10 ",
       "arrive2": "CAI 21:35",
       "date1": "الجمعة 18 إبريل 2025",
       "date2": "الثلاثاء 22 إبريل 2025",
@@ -31,7 +13,7 @@
       "depart2": "JED 20:25",
       "plus1": 76,
       "seatleft1": "اكثر من 7 مقاعد",
-      "seatleft2": "اكثر من 7 مقاعد",
+      "seatleft2": "فقط 4 مقاعد متبقية",
       "site": "flynas",
       "timeout": 0,
       "total": 592
@@ -103,7 +85,7 @@
       "depart2": "JED 13:30",
       "plus1": 185,
       "seatleft1": "اكثر من 7 مقاعد",
-      "seatleft2": "فقط 4 مقاعد متبقية",
+      "seatleft2": "فقط 2 مقاعد متبقية",
       "site": "flynas",
       "timeout": 0,
       "total": 608
@@ -121,7 +103,7 @@
       "depart2": "JED 16:05",
       "plus1": 9999,
       "seatleft1": "اكثر من 7 مقاعد",
-      "seatleft2": "اكثر من 7 مقاعد",
+      "seatleft2": "فقط 4 مقاعد متبقية",
       "site": "flynas",
       "timeout": 1,
       "total": 608
@@ -148,16 +130,34 @@
       "amount1": 319,
       "amount2": 299,
       "arrive1": "JED 00:25 ",
-      "arrive2": "CAI 23:25",
+      "arrive2": "CAI 21:35",
       "date1": "الجمعة 18 إبريل 2025",
       "date2": "الثلاثاء 22 إبريل 2025",
       "dateNum1": "2025-04-18",
       "dateNum2": "2025-04-22",
       "depart1": "CAI 21:00",
-      "depart2": "JED 22:15",
-      "plus1": -1964,
+      "depart2": "JED 20:25",
+      "plus1": -1774,
       "seatleft1": "اكثر من 7 مقاعد",
-      "seatleft2": "فقط 3 مقاعد متبقية",
+      "seatleft2": "فقط 4 مقاعد متبقية",
+      "site": "flynas",
+      "timeout": 0,
+      "total": 618
+    },
+    {
+      "amount1": 319,
+      "amount2": 299,
+      "arrive1": "JED 00:25 ",
+      "arrive2": "CAI 17:15",
+      "date1": "الجمعة 18 إبريل 2025",
+      "date2": "الثلاثاء 22 إبريل 2025",
+      "dateNum1": "2025-04-18",
+      "dateNum2": "2025-04-22",
+      "depart1": "CAI 21:00",
+      "depart2": "JED 16:05",
+      "plus1": -1354,
+      "seatleft1": "اكثر من 7 مقاعد",
+      "seatleft2": "فقط 4 مقاعد متبقية",
       "site": "flynas",
       "timeout": 0,
       "total": 618
@@ -212,24 +212,6 @@
       "plus1": -1774,
       "seatleft1": "اكثر من 7 مقاعد",
       "seatleft2": "اكثر من 7 مقاعد",
-      "site": "flynas",
-      "timeout": 0,
-      "total": 618
-    },
-    {
-      "amount1": 319,
-      "amount2": 299,
-      "arrive1": "JED 00:25 ",
-      "arrive2": "CAI 17:15",
-      "date1": "السبت 19 إبريل 2025",
-      "date2": "الأربعاء 23 إبريل 2025",
-      "dateNum1": "2025-04-19",
-      "dateNum2": "2025-04-23",
-      "depart1": "CAI 21:00",
-      "depart2": "JED 16:05",
-      "plus1": -1354,
-      "seatleft1": "اكثر من 7 مقاعد",
-      "seatleft2": "فقط 3 مقاعد متبقية",
       "site": "flynas",
       "timeout": 0,
       "total": 618
@@ -273,6 +255,24 @@
     {
       "amount1": 319,
       "amount2": 299,
+      "arrive1": "JED 01:50 ",
+      "arrive2": "CAI 21:35",
+      "date1": "السبت 19 إبريل 2025",
+      "date2": "الأربعاء 23 إبريل 2025",
+      "dateNum1": "2025-04-19",
+      "dateNum2": "2025-04-23",
+      "depart1": "CAI 22:25",
+      "depart2": "JED 20:25",
+      "plus1": -524,
+      "seatleft1": "اكثر من 7 مقاعد",
+      "seatleft2": "اكثر من 7 مقاعد",
+      "site": "flynas",
+      "timeout": 0,
+      "total": 618
+    },
+    {
+      "amount1": 319,
+      "amount2": 299,
       "arrive1": "JED 00:25 ",
       "arrive2": "CAI 23:25",
       "date1": "الأحد 20 إبريل 2025",
@@ -355,7 +355,7 @@
       "depart2": "JED 22:15",
       "plus1": -1964,
       "seatleft1": "اكثر من 7 مقاعد",
-      "seatleft2": "اكثر من 7 مقاعد",
+      "seatleft2": "فقط 3 مقاعد متبقية",
       "site": "flynas",
       "timeout": 0,
       "total": 618
@@ -373,7 +373,7 @@
       "depart2": "JED 22:15",
       "plus1": -1875,
       "seatleft1": "اكثر من 7 مقاعد",
-      "seatleft2": "اكثر من 7 مقاعد",
+      "seatleft2": "فقط 3 مقاعد متبقية",
       "site": "flynas",
       "timeout": 0,
       "total": 618
@@ -391,25 +391,7 @@
       "depart2": "JED 22:15",
       "plus1": -714,
       "seatleft1": "اكثر من 7 مقاعد",
-      "seatleft2": "اكثر من 7 مقاعد",
-      "site": "flynas",
-      "timeout": 0,
-      "total": 618
-    },
-    {
-      "amount1": 319,
-      "amount2": 299,
-      "arrive1": "JED 11:50",
-      "arrive2": "CAI 09:30",
-      "date1": "الاثنين 21 إبريل 2025",
-      "date2": "الجمعة 25 إبريل 2025",
-      "dateNum1": "2025-04-21",
-      "dateNum2": "2025-04-25",
-      "depart1": "CAI 08:25",
-      "depart2": "JED 07:20",
-      "plus1": 430,
-      "seatleft1": "اكثر من 7 مقاعد",
-      "seatleft2": "فقط 2 مقاعد متبقية",
+      "seatleft2": "فقط 3 مقاعد متبقية",
       "site": "flynas",
       "timeout": 0,
       "total": 618
@@ -463,9 +445,27 @@
       "depart2": "JED 16:05",
       "plus1": 9999,
       "seatleft1": "اكثر من 7 مقاعد",
-      "seatleft2": "اكثر من 7 مقاعد",
+      "seatleft2": "فقط 3 مقاعد متبقية",
       "site": "flynas",
       "timeout": 1,
+      "total": 638
+    },
+    {
+      "amount1": 309,
+      "amount2": 329,
+      "arrive1": "JED 15:15",
+      "arrive2": "CAI 18:15",
+      "date1": "الاثنين 21 إبريل 2025",
+      "date2": "الجمعة 25 إبريل 2025",
+      "dateNum1": "2025-04-21",
+      "dateNum2": "2025-04-25",
+      "depart1": "SPX 11:55",
+      "depart2": "JED 16:05",
+      "plus1": -90,
+      "seatleft1": "اكثر من 7 مقاعد",
+      "seatleft2": "اكثر من 7 مقاعد",
+      "site": "flynas",
+      "timeout": 0,
       "total": 638
     },
     {
@@ -517,7 +517,7 @@
       "depart2": "JED 16:05",
       "plus1": -1354,
       "seatleft1": "اكثر من 7 مقاعد",
-      "seatleft2": "اكثر من 7 مقاعد",
+      "seatleft2": "فقط 3 مقاعد متبقية",
       "site": "flynas",
       "timeout": 0,
       "total": 648
@@ -553,7 +553,7 @@
       "depart2": "JED 06:25",
       "plus1": 675,
       "seatleft1": "اكثر من 7 مقاعد",
-      "seatleft2": "اكثر من 7 مقاعد",
+      "seatleft2": "فقط 4 مقاعد متبقية",
       "site": "flynas",
       "timeout": 0,
       "total": 652
@@ -607,7 +607,7 @@
       "depart2": "JED 20:55",
       "plus1": -1804,
       "seatleft1": "اكثر من 7 مقاعد",
-      "seatleft2": "فقط 5 مقاعد متبقية",
+      "seatleft2": "فقط 4 مقاعد متبقية",
       "site": "flynas",
       "timeout": 0,
       "total": 678
@@ -625,7 +625,7 @@
       "depart2": "JED 20:55",
       "plus1": -1715,
       "seatleft1": "اكثر من 7 مقاعد",
-      "seatleft2": "فقط 5 مقاعد متبقية",
+      "seatleft2": "فقط 4 مقاعد متبقية",
       "site": "flynas",
       "timeout": 0,
       "total": 678
@@ -823,7 +823,7 @@
       "depart2": "JED 16:05",
       "plus1": -1354,
       "seatleft1": "اكثر من 7 مقاعد",
-      "seatleft2": "اكثر من 7 مقاعد",
+      "seatleft2": "فقط 3 مقاعد متبقية",
       "site": "flynas",
       "timeout": 0,
       "total": 678
@@ -1057,7 +1057,7 @@
       "depart2": "JED 20:25",
       "plus1": -1900,
       "seatleft1": "اكثر من 7 مقاعد",
-      "seatleft2": "فقط 3 مقاعد متبقية",
+      "seatleft2": "فقط 2 مقاعد متبقية",
       "site": "flynas",
       "timeout": 0,
       "total": 708
@@ -4306,19 +4306,19 @@
     },
     {
       "amount1": 319,
-      "arrive1": "JED 20:35",
-      "date1": "الأحد 20 إبريل 2025",
-      "dateNum1": "2025-04-20",
-      "depart1": "CAI 17:10",
-      "seatleft1": "فقط 3 مقاعد متبقية",
-      "site1": "flynas"
-    },
-    {
-      "amount1": 319,
       "arrive1": "JED 21:30",
       "date1": "الأحد 20 إبريل 2025",
       "dateNum1": "2025-04-20",
       "depart1": "CAI 18:05",
+      "seatleft1": "اكثر من 7 مقاعد",
+      "site1": "flynas"
+    },
+    {
+      "amount1": 319,
+      "arrive1": "JED 00:25 (+1)",
+      "date1": "الأحد 20 إبريل 2025",
+      "dateNum1": "2025-04-20",
+      "depart1": "CAI 21:00",
       "seatleft1": "اكثر من 7 مقاعد",
       "site1": "flynas"
     },
@@ -4377,15 +4377,6 @@
       "site1": "flynas"
     },
     {
-      "amount1": 303,
-      "arrive1": "MED 18:20",
-      "date1": "الثلاثاء 22 إبريل 2025",
-      "dateNum1": "2025-04-22",
-      "depart1": "CAI 15:30",
-      "seatleft1": "فقط 4 مقاعد متبقية",
-      "site1": "flynas"
-    },
-    {
       "amount1": 319,
       "arrive1": "JED 03:40",
       "date1": "الثلاثاء 22 إبريل 2025",
@@ -4427,6 +4418,15 @@
       "date1": "الثلاثاء 22 إبريل 2025",
       "dateNum1": "2025-04-22",
       "depart1": "CAI 18:05",
+      "seatleft1": "اكثر من 7 مقاعد",
+      "site1": "flynas"
+    },
+    {
+      "amount1": 319,
+      "arrive1": "JED 00:25 (+1)",
+      "date1": "الثلاثاء 22 إبريل 2025",
+      "dateNum1": "2025-04-22",
+      "depart1": "CAI 21:00",
       "seatleft1": "اكثر من 7 مقاعد",
       "site1": "flynas"
     },
@@ -5572,7 +5572,7 @@
       "date2": "الأحد 20 إبريل 2025",
       "dateNum2": "2025-04-20",
       "depart2": "JED 06:25",
-      "seatleft2": "اكثر من 7 مقاعد",
+      "seatleft2": "فقط 4 مقاعد متبقية",
       "site2": "flynas"
     },
     {
@@ -5581,7 +5581,7 @@
       "date2": "الأحد 20 إبريل 2025",
       "dateNum2": "2025-04-20",
       "depart2": "JED 20:55",
-      "seatleft2": "فقط 5 مقاعد متبقية",
+      "seatleft2": "فقط 4 مقاعد متبقية",
       "site2": "flynas"
     },
     {
@@ -5626,7 +5626,7 @@
       "date2": "الاثنين 21 إبريل 2025",
       "dateNum2": "2025-04-21",
       "depart2": "JED 06:25",
-      "seatleft2": "فقط 5 مقاعد متبقية",
+      "seatleft2": "اكثر من 7 مقاعد",
       "site2": "flynas"
     },
     {
@@ -5635,7 +5635,7 @@
       "date2": "الاثنين 21 إبريل 2025",
       "dateNum2": "2025-04-21",
       "depart2": "JED 07:20",
-      "seatleft2": "اكثر من 7 مقاعد",
+      "seatleft2": "فقط 5 مقاعد متبقية",
       "site2": "flynas"
     },
     {
@@ -5653,7 +5653,7 @@
       "date2": "الاثنين 21 إبريل 2025",
       "dateNum2": "2025-04-21",
       "depart2": "JED 16:05",
-      "seatleft2": "اكثر من 7 مقاعد",
+      "seatleft2": "فقط 3 مقاعد متبقية",
       "site2": "flynas"
     },
     {
@@ -5676,15 +5676,6 @@
     },
     {
       "amount2": 299,
-      "arrive2": "CAI 07:35",
-      "date2": "الثلاثاء 22 إبريل 2025",
-      "dateNum2": "2025-04-22",
-      "depart2": "JED 06:25",
-      "seatleft2": "فقط 3 مقاعد متبقية",
-      "site2": "flynas"
-    },
-    {
-      "amount2": 299,
       "arrive2": "CAI 08:30",
       "date2": "الثلاثاء 22 إبريل 2025",
       "dateNum2": "2025-04-22",
@@ -5698,33 +5689,42 @@
       "date2": "الثلاثاء 22 إبريل 2025",
       "dateNum2": "2025-04-22",
       "depart2": "JED 13:30",
+      "seatleft2": "فقط 2 مقاعد متبقية",
+      "site2": "flynas"
+    },
+    {
+      "amount2": 299,
+      "arrive2": "CAI 16:20",
+      "date2": "الثلاثاء 22 إبريل 2025",
+      "dateNum2": "2025-04-22",
+      "depart2": "JED 15:10",
+      "seatleft2": "اكثر من 7 مقاعد",
+      "site2": "flynas"
+    },
+    {
+      "amount2": 299,
+      "arrive2": "CAI 17:15",
+      "date2": "الثلاثاء 22 إبريل 2025",
+      "dateNum2": "2025-04-22",
+      "depart2": "JED 16:05",
       "seatleft2": "فقط 4 مقاعد متبقية",
       "site2": "flynas"
     },
     {
       "amount2": 299,
-      "arrive2": "CAI 16:20",
-      "date2": "الثلاثاء 22 إبريل 2025",
-      "dateNum2": "2025-04-22",
-      "depart2": "JED 15:10",
-      "seatleft2": "اكثر من 7 مقاعد",
-      "site2": "flynas"
-    },
-    {
-      "amount2": 299,
-      "arrive2": "CAI 17:15",
-      "date2": "الثلاثاء 22 إبريل 2025",
-      "dateNum2": "2025-04-22",
-      "depart2": "JED 16:05",
-      "seatleft2": "اكثر من 7 مقاعد",
-      "site2": "flynas"
-    },
-    {
-      "amount2": 299,
       "arrive2": "CAI 21:35",
       "date2": "الثلاثاء 22 إبريل 2025",
       "dateNum2": "2025-04-22",
       "depart2": "JED 20:25",
+      "seatleft2": "فقط 4 مقاعد متبقية",
+      "site2": "flynas"
+    },
+    {
+      "amount2": 329,
+      "arrive2": "CAI 07:35",
+      "date2": "الثلاثاء 22 إبريل 2025",
+      "dateNum2": "2025-04-22",
+      "depart2": "JED 06:25",
       "seatleft2": "اكثر من 7 مقاعد",
       "site2": "flynas"
     },
@@ -5757,15 +5757,6 @@
     },
     {
       "amount2": 299,
-      "arrive2": "CAI 17:15",
-      "date2": "الأربعاء 23 إبريل 2025",
-      "dateNum2": "2025-04-23",
-      "depart2": "JED 16:05",
-      "seatleft2": "فقط 3 مقاعد متبقية",
-      "site2": "flynas"
-    },
-    {
-      "amount2": 299,
       "arrive2": "CAI 21:35",
       "date2": "الأربعاء 23 إبريل 2025",
       "dateNum2": "2025-04-23",
@@ -5779,6 +5770,15 @@
       "date2": "الأربعاء 23 إبريل 2025",
       "dateNum2": "2025-04-23",
       "depart2": "JED 22:15",
+      "seatleft2": "اكثر من 7 مقاعد",
+      "site2": "flynas"
+    },
+    {
+      "amount2": 329,
+      "arrive2": "CAI 17:15",
+      "date2": "الأربعاء 23 إبريل 2025",
+      "dateNum2": "2025-04-23",
+      "depart2": "JED 16:05",
       "seatleft2": "اكثر من 7 مقاعد",
       "site2": "flynas"
     },
@@ -5806,7 +5806,7 @@
       "date2": "الخميس 24 إبريل 2025",
       "dateNum2": "2025-04-24",
       "depart2": "JED 15:10",
-      "seatleft2": "اكثر من 7 مقاعد",
+      "seatleft2": "فقط 2 مقاعد متبقية",
       "site2": "flynas"
     },
     {
@@ -5847,15 +5847,6 @@
     },
     {
       "amount2": 299,
-      "arrive2": "CAI 09:30",
-      "date2": "الجمعة 25 إبريل 2025",
-      "dateNum2": "2025-04-25",
-      "depart2": "JED 07:20",
-      "seatleft2": "فقط 2 مقاعد متبقية",
-      "site2": "flynas"
-    },
-    {
-      "amount2": 299,
       "arrive2": "CAI 17:20",
       "date2": "الجمعة 25 إبريل 2025",
       "dateNum2": "2025-04-25",
@@ -5869,6 +5860,15 @@
       "date2": "الجمعة 25 إبريل 2025",
       "dateNum2": "2025-04-25",
       "depart2": "JED 22:15",
+      "seatleft2": "فقط 3 مقاعد متبقية",
+      "site2": "flynas"
+    },
+    {
+      "amount2": 329,
+      "arrive2": "CAI 09:30",
+      "date2": "الجمعة 25 إبريل 2025",
+      "dateNum2": "2025-04-25",
+      "depart2": "JED 07:20",
       "seatleft2": "اكثر من 7 مقاعد",
       "site2": "flynas"
     },
@@ -5950,16 +5950,7 @@
       "date2": "الأحد 27 إبريل 2025",
       "dateNum2": "2025-04-27",
       "depart2": "JED 06:25",
-      "seatleft2": "اكثر من 7 مقاعد",
-      "site2": "flynas"
-    },
-    {
-      "amount2": 359,
-      "arrive2": "CAI 09:30",
-      "date2": "الأحد 27 إبريل 2025",
-      "dateNum2": "2025-04-27",
-      "depart2": "JED 07:20",
-      "seatleft2": "فقط 2 مقاعد متبقية",
+      "seatleft2": "فقط 3 مقاعد متبقية",
       "site2": "flynas"
     },
     {
@@ -5968,7 +5959,7 @@
       "date2": "الأحد 27 إبريل 2025",
       "dateNum2": "2025-04-27",
       "depart2": "JED 16:05",
-      "seatleft2": "اكثر من 7 مقاعد",
+      "seatleft2": "فقط 3 مقاعد متبقية",
       "site2": "flynas"
     },
     {
@@ -5995,7 +5986,16 @@
       "date2": "الأحد 27 إبريل 2025",
       "dateNum2": "2025-04-27",
       "depart2": "JED 10:00",
-      "seatleft2": "فقط 3 مقاعد متبقية",
+      "seatleft2": "فقط 2 مقاعد متبقية",
+      "site2": "flynas"
+    },
+    {
+      "amount2": 379,
+      "arrive2": "SPX 23:20",
+      "date2": "الأحد 27 إبريل 2025",
+      "dateNum2": "2025-04-27",
+      "depart2": "MED 21:30",
+      "seatleft2": "اكثر من 7 مقاعد",
       "site2": "flynas"
     },
     {
@@ -6049,7 +6049,7 @@
       "date2": "الاثنين 28 إبريل 2025",
       "dateNum2": "2025-04-28",
       "depart2": "JED 20:25",
-      "seatleft2": "فقط 3 مقاعد متبقية",
+      "seatleft2": "فقط 2 مقاعد متبقية",
       "site2": "flynas"
     }
   ],
